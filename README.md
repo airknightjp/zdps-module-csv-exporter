@@ -18,7 +18,7 @@ https://airknightjp.github.io/zdps-module-csv-exporter/
 
 ## 使い方
 
-1. `index.html` を Chrome または Edge で開く
+1. URLをブラウザで開く
 2. 「ZDPSフォルダを選択」を押す
 3. ZDPS 本体フォルダを選択する
 4. 「CSVを出力」を押す
